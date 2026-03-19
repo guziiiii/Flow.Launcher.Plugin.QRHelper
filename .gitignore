@@ -1,0 +1,16 @@
+# 忽略依赖库目录
+lib/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略打包生成的文件夹和压缩包
+venv/
+dist/
+build/
+*.zip

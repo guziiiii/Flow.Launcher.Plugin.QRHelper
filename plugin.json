@@ -1,0 +1,12 @@
+{
+  "ID": "您的唯一UUID",
+  "ActionKeyword": "qr",
+  "Name": "QR Scanner & Generator",
+  "Description": "截图扫码或生成二维码至剪贴板",
+  "Author": "guzhi",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/YourRepo",
+  "ExecuteFileName": "main.py",
+  "IcoPath": "Images/QRHelper.png"
+}
