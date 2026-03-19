@@ -1,12 +1,12 @@
 {
-  "ID": "您的唯一UUID",
+  "ID": "5K4Q2EJL79ENKLUNUAQSUEQXCTEMS3EK",
   "ActionKeyword": "qr",
-  "Name": "QR Scanner & Generator",
+  "Name": "QR Helper",
   "Description": "截图扫码或生成二维码至剪贴板",
   "Author": "guzhi",
   "Version": "1.0.0",
   "Language": "python",
-  "Website": "https://github.com/YourRepo",
+  "Website": "https://github.com/guziiiii/Flow.Launcher.Plugin.QRHelper",
   "ExecuteFileName": "main.py",
   "IcoPath": "Images/QRHelper.png"
 }
